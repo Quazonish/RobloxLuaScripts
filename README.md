@@ -1,2 +1,2 @@
 # RobloxLuaScripts
-Made by (Monker)[https://scriptblox.com/u/Monker]
+Made by [Monker](https://scriptblox.com/u/Monker)
