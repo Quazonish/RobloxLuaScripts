@@ -1,5 +1,6 @@
 -- Made by Monker
 -- https://scriptblox.com/u/Monker
+-- GAME: https://www.roblox.com/games/1939840914/Nations-Roleplay-2
 
 local lp = game:GetService("Players").LocalPlayer
 local chr = lp.Character
