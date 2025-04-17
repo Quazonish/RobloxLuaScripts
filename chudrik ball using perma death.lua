@@ -146,7 +146,7 @@ task.spawn(getgenv().Network.PartOwnership.Enable)
 local character = LocalPlayer.Character
 local obj = character:WaitForChild("Accessory (ChudrikAccessory)").Handle
 
-local character = LocalPlayer.Characterreplicatesignal(LocalPlayer.ConnectDiedSignalBackend)
+replicatesignal(LocalPlayer.ConnectDiedSignalBackend)
 wait(Players.RespawnTime + .1)
 character:FindFirstChildOfClass("Humanoid"):ChangeState(15)
 
